@@ -1,5 +1,15 @@
 <h2 align="left">Hi 👋! My name is parham and I'm a passionate frontend developer from Iran</h2>
 
+- 🌱 I’m currently learning **Javascript**
+
+- 💬 Ask me about **Wordpress, UI/UX**
+
+- 📫 How to reach me **arianezhadparham@gmail.com**
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/parham-arianezhad/](https://www.linkedin.com/in/parham-arianezhad/)
+
+- ⚡ Fun fact **I Start with WordPress**
+
 ###
 
 <img align="right" height="150" src="https://i.pinimg.com/originals/6c/62/87/6c62876ccccef57dd0377eb5f9d1af07.gif"  />
